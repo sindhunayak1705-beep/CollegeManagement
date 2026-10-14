@@ -3,3 +3,5 @@ Student Name: sindhu
 Roll Number: 043
 Department: csd
 Semester: 5
+Attendance: 85%
+Result: PASS
